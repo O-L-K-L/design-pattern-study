@@ -1,17 +1,7 @@
 # Design Pattern Study
 디자인 패턴 이론과 타입스크립트 기반의 예제를 통해 각 패턴이 어떤 문제를 푸는데 쓰이는지 학습합니다.
 
-## Table of Contents
+이론은 아래 링크에 정리되어 있습니다.  
+https://yongdam.com/Design-Pattern-75e6f374dd164e258ee3a9cf664fb653
 
-
-| Classification | Pattern | Links |
-| :--- | --- | --- |
-| Creational Patterns | Singletone | [doc](docs/singleton.md) \| [example](examples/singleton.ts) |
-| | Builder | doc \| example |
-| Structural Patterns | Adapter | doc \| example |
-| | Decorator | doc \| example |
-| Behavioral Patterns | Command | doc \| example |
-| | Strategy | doc \| example |
-| Concurrency Patterns | Scheduler | doc \| example |
-| | Reactor | doc \| example |
-
+## Examples (WIP)
